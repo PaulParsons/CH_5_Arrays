@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.fivecubits.qa</groupId>
-    <artifactId>CH_3_Control_Flow</artifactId>
+    <artifactId>CH_5_Arrays</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

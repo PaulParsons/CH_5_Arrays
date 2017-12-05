@@ -1,3 +1,5 @@
+package examples;
+
 public class OneDimensionalArrayExample {
 
 	public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package examples;
+
 public class IrregularArrayExample {
 	public static void main(String[] args) {
 		int[][] table = new int[3][];
